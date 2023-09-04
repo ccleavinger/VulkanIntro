@@ -1,0 +1,10 @@
+#ignore these directories
+x64/
+bin/
+.vs/
+#ignore spir-v bytecode files
+*.spv
+#ignore vs 2022 files
+*.sln
+*.vcxproj
+*.vcxproj.user
